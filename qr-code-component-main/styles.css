@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Outfit');
 
 .card {
-  border-radius: 10px;
+  border-radius: 20px;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
   margin: 20px;
